@@ -6,6 +6,9 @@
 ```
 pkg upgrade
 pkg install wget
+pkg install root-repo
+pkg install unstable-repo
+pkg install x11-repo
 pkg install git
 pkg install python
 git clone https://github.com/Ignitetch/AdvPhishing
@@ -13,6 +16,7 @@ git clone https://github.com/T-Dynamos/Maths_Bot m_bot
 git clone https://github.com/Cabbagec/termux-ohmyzsh
 wget https://raw.githubusercontent.com/T-Dynamos/Tvirus2.0/main/hack
 cd Advphishing
+rm -rf secnhack
 wget https://raw.githubusercontent.com/T-Dynamos/advphishing/main/secnhack
 bash Android-Setup.sh
 ```
