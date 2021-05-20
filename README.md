@@ -11,11 +11,12 @@ pkg install python
 git clone https://github.com/Ignitetch/AdvPhishing
 git clone https://github.com/T-Dynamos/Maths_Bot m_bot
 git clone https://github.com/Cabbagec/termux-ohmyzsh
-
 wget https://raw.githubusercontent.com/T-Dynamos/Tvirus2.0/main/hack
 cd Advphishing
 bash Android-Setup.sh
-cd
+'''
+#Second Time 
+'''
 cd termux-ohmyzsh
 bash install.sh
 cd
