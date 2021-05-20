@@ -15,16 +15,13 @@ wget https://raw.githubusercontent.com/T-Dynamos/Tvirus2.0/main/hack
 cd Advphishing
 bash Android-Setup.sh
 '''
+* Second Time 
 
-# Second Time 
-
-'''
 cd termux-ohmyzsh
 bash install.sh
 cd
 chmod +x *
 clear
 echo Exectue = ./hack
-```
 
 
