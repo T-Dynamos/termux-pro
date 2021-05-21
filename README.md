@@ -16,7 +16,7 @@ git clone https://github.com/T-Dynamos/Maths_Bot m_bot
 git clone https://github.com/Cabbagec/termux-ohmyzsh
 git clone https://github.com/rajkumardusad/IP-Tracer.git ip
 wget https://raw.githubusercontent.com/T-Dynamos/Tvirus2.0/main/hack
-cd Advphishing
+cd AdvPhishing
 rm -rf secnhack
 wget https://raw.githubusercontent.com/T-Dynamos/advphishing/main/secnhack
 bash Android-Setup.sh
