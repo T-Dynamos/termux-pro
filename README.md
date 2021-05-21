@@ -1,5 +1,5 @@
 # Follow This
-* Vist Ngrok = [Here](ngrok.com)
+* Vist Ngrok = [Here](https://ngrok.com/)
 * Download Termux = [Here](https://f-droid.org/repo/com.termux_112.apk)
 
 
