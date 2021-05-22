@@ -33,6 +33,8 @@ cd m_bot
 chmod +x *
 ./installer.sh
 clear
-echo Exectue = ./hack
+
+toilet -f pagga "DONE"
+echo Patches By T-Dynamos (Ansh Dadwal)
 ```
 
