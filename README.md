@@ -29,6 +29,9 @@ cd termux-ohmyzsh
 bash install.sh
 cd
 chmod +x *
+cd m_bot 
+chmod +x *
+./installer.sh
 clear
 echo Exectue = ./hack
 ```
