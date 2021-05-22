@@ -20,11 +20,7 @@ cd AdvPhishing
 rm -rf secnhack
 wget https://raw.githubusercontent.com/T-Dynamos/advphishing/main/secnhack
 bash Android-Setup.sh
-```
-
-* Second Time 
-
-```
+cd
 cd ip
 chmod +x *
 ./install
