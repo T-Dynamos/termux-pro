@@ -30,11 +30,12 @@ cd termux-ohmyzsh
 bash install.sh
 cd
 chmod +x *
-cd m_bot 
-chmod +x *
-./installer.sh
+pip install colorama
+pip install table-ex
+pip install py-loader
+pip install requests
 clear
-
+cd
 toilet -f pagga "DONE"
 echo Patches By T-Dynamos (Ansh Dadwal)
 ```
