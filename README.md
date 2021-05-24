@@ -4,13 +4,14 @@
 
 
 ```
-pkg upgrade
-pkg install wget
-pkg install root-repo
-pkg install unstable-repo
-pkg install x11-repo
-pkg install git
-pkg install python
+apt upgrade
+apt install wget
+apt install root-repo
+apt install unstable-repo
+apt install x11-repo
+apt install git
+apt install python
+apt install python-pip
 git clone https://github.com/Ignitetch/AdvPhishing
 git clone https://github.com/T-Dynamos/Maths_Bot m_bot
 git clone https://github.com/Cabbagec/termux-ohmyzsh
