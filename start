@@ -1,2 +1,2 @@
 cd server 
-python HiddenEye.py
+python3 HiddenEye.py
