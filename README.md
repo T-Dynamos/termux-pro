@@ -18,10 +18,6 @@ git clone https://github.com/Cabbagec/termux-ohmyzsh
 git clone https://github.com/rajkumardusad/IP-Tracer.git ip
 git clone https://github.com/DarkSecDevelopers/HiddenEye-Legacy server
 wget https://raw.githubusercontent.com/T-Dynamos/Tvirus2.0/main/hack
-https://github.com/xHak9x/SocialPhish
-cd server
-pip install -r requirements.txt
-cd 
 python HiddenEye.py
 cd SocialPhish
 bash socialphish.sh
