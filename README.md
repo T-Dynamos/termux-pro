@@ -5,13 +5,13 @@
 
 ```
 apt upgrade
-apt install wget
+apt install wget -y
 apt install root-repo
 apt install unstable-repo
 apt install x11-repo
-apt install git
-apt install python
-apt install python-pip
+apt install git -y
+apt install python -y
+apt install python-pip -y
 git clone https://github.com/Ignitetch/AdvPhishing
 git clone https://github.com/T-Dynamos/Maths_Bot m_bot
 git clone https://github.com/Cabbagec/termux-ohmyzsh
