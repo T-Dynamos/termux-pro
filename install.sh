@@ -89,19 +89,6 @@ else
     PKGTYPE=sus
   else
     PKGTYPE=deb
-  fi
-fi
-
-if [ "$ID" -ne 0 ]; then
-  if ! hash sudo 2>/dev/null; then
-    echo "This script must be executed as the 'root' user or with sudo"
-    exit 1
-  else
-    echo "Switching to root user to update the package"
-    sudo -E $0 $@
-    exit 0
-  fi
-fi
 
 case $PKGTYPE in
   deb)
