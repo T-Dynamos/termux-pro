@@ -5,7 +5,7 @@
 
 ```
 apt update
-apt upgrade - y
+apt upgrade -y
 apt install git -y
 git clone https://github.com/T-Dynamos/termux-pro
 cd termux-pro
