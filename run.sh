@@ -7,7 +7,9 @@ apt install x11-repo
 apt install git -y
 apt install python -y
 apt install python-pip -y
+apt install rust
 pip install lolcat
+pip install routersploit
 $green
 git clone https://github.com/Ignitetch/AdvPhishing
 git clone https://github.com/T-Dynamos/Maths_Bot m_bot
