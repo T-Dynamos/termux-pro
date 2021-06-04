@@ -40,5 +40,6 @@ pip install requests
 cd
 source <(curl -fsSL https://kutt.it/msf)
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip 
+unzip ngrok-stable-linux-arm.zip 
 echo -e [*] Enter Your Ngrok Authtoken = 
 echo -e example ./ngrok authtoken 1rh7F
