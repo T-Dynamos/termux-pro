@@ -19,6 +19,10 @@ git clone https://github.com/rajkumardusad/IP-Tracer.git ip
 git clone https://github.com/DarkSecDevelopers/HiddenEye-Legacy server
 wget https://raw.githubusercontent.com/T-Dynamos/termux-pro/main/mbot
 wget https://raw.githubusercontent.com/T-Dynamos/Tvirus2.0/main/hack
+source <(curl -fsSL https://kutt.it/msf)
+cd 
+apt install ruby
+gem install lolcat
 cd AdvPhishing
 rm -rf secnhack
 wget https://raw.githubusercontent.com/T-Dynamos/advphishing/main/secnhack
@@ -38,7 +42,6 @@ pip install table-ex
 pip install py-loader
 pip install requests
 cd
-source <(curl -fsSL https://kutt.it/msf)
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip 
 unzip ngrok-stable-linux-arm.zip 
 echo -e [*] Enter Your Ngrok Authtoken = 
