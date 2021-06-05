@@ -51,8 +51,10 @@ rm ngrok-stable-linux-arm.zip
 apt install toilet -y
 clear
 toilet -f pagga "Success"  | lolcat
-
+echo -e 
 echo -e Commands | lolcat
+cd
+rm -rf termux-pro
 echo -e  
 echo -e [1] hack  to start AdvPhishing | lolcat
 echo -e [2] exploit to start HiddenEye | lolcat 
