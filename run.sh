@@ -50,12 +50,18 @@ unzip ngrok-stable-linux-arm.zip
 rm ngrok-stable-linux-arm.zip 
 apt install toilet -y
 clear
-toilet -f pagga"Success"
-echo -e Commands
-echo -e [1] hack (to start AdvPhishing)
-echo -e [2] exploit (to start HiddenEye)
-echo -e [3] mbot (to start maths bot]
-echo -e [4] ./ngrok http {port} 
-echo -e [5] msfconsole(to start msfconsole)
-echo -e [*] Enter Your Ngrok Authtoken = 
-echo -e example ./ngrok authtoken 1rh7F
+toilet -f pagga "Success"  | lolcat
+
+echo -e Commands | lolcat
+echo -e  
+echo -e [1] hack  to start AdvPhishing | lolcat
+echo -e [2] exploit to start HiddenEye | lolcat 
+echo -e [3] mbot to start maths bot | lolcat
+port="1024"
+echo -e [4] ./ngrok http {port}  | lolcat
+echo -e [5] msfconsoleto start msfconsole | lolcat
+echo -e [*] Enter Your Ngrok Authtoken =  | lolcat
+echo -e example ./ngrok authtoken 1rh7F | lolcat
+
+exit
+
