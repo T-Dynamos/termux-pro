@@ -47,5 +47,15 @@ pip install requests
 cd
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip 
 unzip ngrok-stable-linux-arm.zip 
+rm ngrok-stable-linux-arm.zip 
+apt install toilet -y
+clear
+toilet -f pagga"Success"
+echo -e Commands
+echo -e [1] hack (to start AdvPhishing)
+echo -e [2] exploit (to start HiddenEye)
+echo -e [3] mbot (to start maths bot]
+echo -e [4] ./ngrok http {port} 
+echo -e [5] msfconsole(to start msfconsole)
 echo -e [*] Enter Your Ngrok Authtoken = 
 echo -e example ./ngrok authtoken 1rh7F
