@@ -1,7 +1,6 @@
 # Follow This
 * Vist Ngrok = [Here](https://ngrok.com/)
 * Download Termux = [Here](https://f-droid.org/repo/com.termux_112.apk)
-![ascii](https://github.com/T-Dynamos/termux-pro/raw/main/Screenshot_2021-06-11-16-38-19-263_com.termux.jpg)
 ```
 apt update
 apt upgrade -y
@@ -33,5 +32,7 @@ After Installation
 [1] Write Ngrok AuthToken
 [2] Press Ctrl+D or Logout
 ```
+![ascii](https://github.com/T-Dynamos/termux-pro/raw/main/Screenshot_2021-06-11-16-38-19-263_com.termux.jpg)
+
 
 
