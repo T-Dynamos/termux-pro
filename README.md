@@ -11,6 +11,5 @@ git clone https://github.com/T-Dynamos/termux-pro
 cd termux-pro
 chmod +x *
 bash run.sh
-
 ```
 
