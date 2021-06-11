@@ -1,0 +1,3 @@
+./postgresql_ctl.sh start
+clear
+msfconsole
