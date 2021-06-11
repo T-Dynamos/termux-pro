@@ -10,7 +10,6 @@ apt install python-pip -y
 apt install rust -y
 pip install lolcat
 pip install routersploit
-$green
 cd
 git clone https://github.com/Ignitetch/AdvPhishing
 git clone https://github.com/T-Dynamos/Maths_Bot m_bot
@@ -21,11 +20,15 @@ cd /data/data/com.termux/files/usr/bin
 wget https://raw.githubusercontent.com/T-Dynamos/termux-pro/main/mbot
 wget https://raw.githubusercontent.com/T-Dynamos/Tvirus2.0/main/hack
 wget https://raw.githubusercontent.com/T-Dynamos/termux-pro/main/exploit
+wget https://raw.githubusercontent.com/T-Dynamos/termux-pro/main/msf
+wget https://raw.githubusercontent.com/T-Dynamos/termux-pro/main/rsf
+chmod +x *
 cd
 source <(curl -fsSL https://kutt.it/msf)
 cd 
-apt install ruby
-gem install lolcat
+apt install ruby -y
+gem install lolcat -y 
+apt install toilet -y
 cd AdvPhishing
 rm -rf secnhack
 wget https://raw.githubusercontent.com/T-Dynamos/advphishing/main/secnhack
@@ -50,20 +53,8 @@ unzip ngrok-stable-linux-arm.zip
 rm ngrok-stable-linux-arm.zip 
 apt install toilet -y
 clear
-toilet -f pagga "Success"  | lolcat
-echo -e 
-echo -e Commands | lolcat
+cd
+cd termux-pro
+python c.py
 cd
 rm -rf termux-pro
-echo -e  
-echo -e [1] hack  to start AdvPhishing | lolcat
-echo -e [2] exploit to start HiddenEye | lolcat 
-echo -e [3] mbot to start maths bot | lolcat
-port="1024"
-echo -e [4] ./ngrok http {port}  | lolcat
-echo -e [5] msfconsoleto start msfconsole | lolcat
-echo -e [*] Enter Your Ngrok Authtoken =  | lolcat
-echo -e example ./ngrok authtoken 1rh7F | lolcat
-
-exit
-
