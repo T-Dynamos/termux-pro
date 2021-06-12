@@ -8,6 +8,7 @@ apt install git -y
 apt install python -y
 apt install python-pip -y
 apt install rust -y
+apt install neofetch -y
 pip install lolcat
 pip install routersploit
 cd
@@ -53,7 +54,10 @@ unzip ngrok-stable-linux-arm.zip
 rm ngrok-stable-linux-arm.zip 
 apt install toilet -y
 clear
-cd
+cd /data/data/com.termux/files/usr/etc
+rm profile
+wget https://raw.githubusercontent.com/T-Dynamos/termux-pro/main/profile
+cd 
 cd termux-pro
 python c.py
 cd
