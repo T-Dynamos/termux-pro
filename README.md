@@ -1,6 +1,6 @@
 # Follow This
 * Vist Ngrok = [Here](https://ngrok.com/)
-* Download Termux = [Here](https://f-droid.org/repo/com.termux_112.apk)
+* Download Termux = [Here](https://f-droid.org/repo/com.termux_113.apk)
 ```
 apt update
 apt upgrade -y
