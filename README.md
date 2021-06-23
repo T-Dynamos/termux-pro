@@ -2,7 +2,7 @@
 * Vist Ngrok = [Here](https://ngrok.com/)
 * Download Termux = [Here](https://f-droid.org/repo/com.termux_113.apk)
 ```
-source <(curl -fsSL https://kutt.it/msf)
+source <(curl -fsSL https://kutt.it/termux)
 ```
 After Installation
 ```
