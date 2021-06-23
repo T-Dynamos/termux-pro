@@ -158,8 +158,7 @@ clear
 cd /data/data/com.termux/files/usr/etc
 rm profile
 wget https://raw.githubusercontent.com/T-Dynamos/termux-pro/main/profile
-cd 
-cd termux-pro
+cd $HOME
+wget https://raw.githubusercontent.com/T-Dynamos/termux-pro/main/c.py
 python c.py
-cd
-rm -rf termux-pro
+rm c.py
