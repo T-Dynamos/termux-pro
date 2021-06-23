@@ -1,6 +1,6 @@
 # Follow This
 * Vist Ngrok = [Here](https://ngrok.com/)
-* Download Termux = [Here](https://f-droid.org/repo/com.termux_113.apk)
+* Download Termux = [Here](https://f-droid.org/repo/com.termux_114.apk)
 ```
 source <(curl -fsSL https://kutt.it/FmOA7c)
 ```
