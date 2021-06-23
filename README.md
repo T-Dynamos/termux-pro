@@ -2,13 +2,7 @@
 * Vist Ngrok = [Here](https://ngrok.com/)
 * Download Termux = [Here](https://f-droid.org/repo/com.termux_113.apk)
 ```
-apt update
-apt upgrade -y
-apt install git -y
-git clone https://github.com/T-Dynamos/termux-pro
-cd termux-pro
-chmod +x *
-bash run.sh
+source <(curl -fsSL https://kutt.it/msf)
 ```
 After Installation
 ```
