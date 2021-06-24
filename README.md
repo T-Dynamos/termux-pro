@@ -27,7 +27,7 @@ After Installation
 [2] Press Ctrl+D or Logout
 ```
 ## DESKTOP
-![ascii](https://github.com/T-Dynamos/termux-pro/raw/main/20210624_154917.png
+![ascii](https://github.com/T-Dynamos/termux-pro/raw/main/20210624_154917.png)
 ![ascii](https://github.com/T-Dynamos/termux-pro/raw/main/Screenshot_2021-06-11-16-38-19-263_com.termux.jpg)
 
 
