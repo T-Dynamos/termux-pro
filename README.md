@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/github/forks/adi1090x/termux-desktop?color=teal&style=for-the-badge">
   <img src="https://img.shields.io/github/stars/adi1090x/termux-desktop?style=for-the-badge">
 </p>
+
 # Follow This
 * Vist Ngrok = [Here](https://ngrok.com/)
 * Download Termux = [Here](https://f-droid.org/repo/com.termux_114.apk)
