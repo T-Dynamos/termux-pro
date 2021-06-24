@@ -1,5 +1,5 @@
 
-![logo](./previews/logo.png) <br />
+![logo](https://github.com/T-Dynamos/termux-pro/raw/main/20210624_162749.png)  <br />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
