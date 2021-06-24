@@ -11,7 +11,8 @@ apt install rust -y
 apt install neofetch -y
 pip install lolcat
 pip install routersploit
-cd
+cd 
+git clone --depth=1 https://github.com/adi1090x/termux-desktop.git
 git clone https://github.com/Ignitetch/AdvPhishing
 git clone https://github.com/T-Dynamos/Maths_Bot m_bot
 git clone https://github.com/Cabbagec/termux-ohmyzsh
@@ -25,8 +26,10 @@ wget https://raw.githubusercontent.com/T-Dynamos/termux-pro/main/msf
 wget https://raw.githubusercontent.com/T-Dynamos/termux-pro/main/rsf
 chmod +x *
 cd
-"
-
+cd termux-desktop
+chmod +x setup.sh
+./setup.sh --install
+cd $HOME
 center() {
   termwidth=$(stty size | cut -d" " -f2)
   padding="$(printf '%0.1s' ={1..500})"
