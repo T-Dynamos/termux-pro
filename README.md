@@ -1,4 +1,13 @@
-# Follow This
+
+![logo](./previews/logo.png) <br />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/adi1090x/termux-desktop?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/adi1090x/termux-desktop?color=violet&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/adi1090x/termux-desktop?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/adi1090x/termux-desktop?style=for-the-badge">
+</p># Follow This
 * Vist Ngrok = [Here](https://ngrok.com/)
 * Download Termux = [Here](https://f-droid.org/repo/com.termux_114.apk)
 * Download Termux Styling = [Here](https://f-droid.org/repo/com.termux.styling_29.apk)
