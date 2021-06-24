@@ -30,6 +30,18 @@ After Installation
 ```
 ## DESKTOP
 ![ascii](https://github.com/T-Dynamos/termux-pro/raw/main/20210624_154917.png)
+
+that's it. `termux desktop` is installed successfully. *restart termux* and enter `startdesktop` command to start *vncserver* and connect via vnc client. <br />
+```
+startdesktop
+
+[*] starting vnc server...
+
+new 'localhost:1 ()' desktop is localhost:1
+
+starting applications specified in /data/data/com.termux/files/home/.vnc/xstartup
+log file is /data/data/com.termux/files/home/.vnc/localhost:1.log
+```
 ## NORMAL
 ![ascii](https://github.com/T-Dynamos/termux-pro/raw/main/Screenshot_2021-06-11-16-38-19-263_com.termux.jpg)
 
