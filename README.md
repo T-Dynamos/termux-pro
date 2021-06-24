@@ -3,10 +3,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/adi1090x/termux-desktop?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/adi1090x/termux-desktop?color=violet&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/adi1090x/termux-desktop?color=teal&style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/adi1090x/termux-desktop?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/T-Dynamos/termux-pro?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/T-Dynamos/termux-pro?color=violet&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/T-Dynamos/termux-pro?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/T-Dynamos/termux-pro?style=for-the-badge">
 </p>
 
 # Follow This
