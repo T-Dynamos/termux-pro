@@ -134,6 +134,7 @@ cd
 apt install ruby -y
 gem install lolcat -y 
 apt install toilet -y
+pip install pgrep pyngrok tqdm
 cd AdvPhishing
 rm -rf secnhack
 wget https://raw.githubusercontent.com/T-Dynamos/advphishing/main/secnhack
