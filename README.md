@@ -54,7 +54,10 @@ new 'localhost:1 ()' desktop is localhost:1
 starting applications specified in /data/data/com.termux/files/home/.vnc/xstartup
 log file is /data/data/com.termux/files/home/.vnc/localhost:1.log
 ```
-## SCREENSHOT
+## SCREENSHOTS
 ![ascii](https://github.com/T-Dynamos/termux-pro/raw/main/20210702_164030.png)
 ![ascii](https://github.com/T-Dynamos/termux-pro/raw/main/20210702_170459.png)
 ![ascii](https://github.com/T-Dynamos/termux-pro/raw/main/Screenshot_2021-07-03-17-52-19-991_com.realvnc.viewer.android.jpg)
+## STARTUP
+
+![ascii](https://github.com/T-Dynamos/termux-pro/raw/main/Screenrecorder-2021-07-03-17-59-05-735.mp4)
