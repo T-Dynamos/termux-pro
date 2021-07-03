@@ -55,7 +55,9 @@ starting applications specified in /data/data/com.termux/files/home/.vnc/xstartu
 log file is /data/data/com.termux/files/home/.vnc/localhost:1.log
 ```
 ## NORMAL
-![ascii](https://github.com/T-Dynamos/termux-pro/raw/main/Screenshot_2021-06-11-16-38-19-263_com.termux.jpg)
+![ascii](https://github.com/T-Dynamos/termux-pro/raw/main/20210702_164030.png)
 
+## SCREEN SHOTS
+![ascii](https://github.com/T-Dynamos/termux-pro/raw/main/20210702_170459.png)
 
-
+![ascii](https://github.com/T-Dynamos/termux-pro/raw/main/Screenshot_2021-07-03-17-52-19-991_com.realvnc.viewer.android.jpg)
