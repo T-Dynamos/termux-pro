@@ -11,7 +11,7 @@
 
 # Follow This
 * Vist Ngrok = [Here](https://ngrok.com/)
-* Download Termux = [Here](https://f-droid.org/repo/com.termux_114.apk)
+* Download Termux = [Here](https://f-droid.org/repo/com.termux_117.apk)
 * Download Termux Styling = [Here](https://f-droid.org/repo/com.termux.styling_29.apk)
 # Single Command
 ```
