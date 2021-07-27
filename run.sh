@@ -18,7 +18,7 @@ git clone https://github.com/T-Dynamos/Maths_Bot m_bot
 git clone https://github.com/Cabbagec/termux-ohmyzsh
 git clone https://github.com/rajkumardusad/IP-Tracer.git ip
 git clone https://github.com/DarkSecDevelopers/HiddenEye-Legacy server
-cd /data/data/com.termux/files/usr/bin
+cd $PREFIX/bin
 wget https://raw.githubusercontent.com/T-Dynamos/termux-pro/main/mbot
 wget https://raw.githubusercontent.com/T-Dynamos/Tvirus2.0/main/hack
 wget https://raw.githubusercontent.com/T-Dynamos/termux-pro/main/exploit
