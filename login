@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/sh
 
 if [ $# = 0 ] && [ -f /data/data/com.termux/files/usr/etc/motd ] && [ ! -f ~/.hushlogin ] && [ -z "$TERMUX_HUSHLOGIN" ]; then
-	cat /data/data/com.termux/files/usr/etc/motd
+	neofetch --ascii_distro kali
 else
 	# This variable shouldn't be kept set.
 	unset TERMUX_HUSHLOGIN
