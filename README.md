@@ -14,5 +14,6 @@ After this run
 nvim
 ```
 And then press esc and then type `:PlugInstall` then hit enter
-> this will install nvim plugins 
+> this will install nvim plugins see this 
+![image](https://github.com/T-Dynamos/T-Dynamos/raw/main/images/GIF-220329_115550.gif)
 ### Enjoy !
