@@ -42,7 +42,7 @@ uninstall_termuxpro () {
 	print_logo
 	echo -e "\e[1;31mUnisntalling Termux-Pro\e[0m"
 	echo ""
-	apt remove fish nvim neofetch -y
+	apt remove fish neovim neofetch -y
 	rm -rf ~/.config
 	apt install wget -y
 	wget https://raw.githubusercontent.com/T-Dynamos/termux-pro/main/motd -O $PREFIX/etc/motd
