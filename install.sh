@@ -18,9 +18,7 @@ install_termuxpro () {
 	echo ""
 	apt update 
 	apt install x11-repo -y
-	apt install neovim fish neofetch -y 
-	curl  https://git.io/fisher > t.txt && fish t.txt && fisher install jorgebucaran/fisher && rm t.txt
-	fisher install IlanCosman/tide@v5
+	apt install neovim fish git neofetch -y 
 	sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
 		https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 	echo ""
@@ -42,7 +40,7 @@ uninstall_termuxpro () {
 	print_logo
 	echo -e "\e[1;31mUnisntalling Termux-Pro\e[0m"
 	echo ""
-	apt remove fish neovim neofetch -y
+	apt remove fish neovim neofetch -y && apt autoremove -y
 	rm -rf ~/.config
 	apt install wget -y
 	wget https://raw.githubusercontent.com/T-Dynamos/termux-pro/main/motd -O $PREFIX/etc/motd
