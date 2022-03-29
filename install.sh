@@ -19,7 +19,7 @@ install_termuxpro () {
 	apt update 
 	apt install x11-repo -y
 	apt install neovim fish neofetch -y 
-	curl -sL https://git.io/fisher | fish && fisher install jorgebucaran/fisher
+	curl  https://git.io/fisher > t.txt && fish t.txt && fisher install jorgebucaran/fisher && rm t.txt
 	fisher install IlanCosman/tide@v5
 	sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
 		https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
