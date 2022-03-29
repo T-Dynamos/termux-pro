@@ -42,8 +42,7 @@ uninstall_termuxpro () {
 	echo ""
 	apt remove fish neovim neofetch -y && apt autoremove -y
 	rm -rf ~/.config
-	apt install wget -y
-	wget https://raw.githubusercontent.com/T-Dynamos/termux-pro/main/motd -O $PREFIX/etc/motd
+	curl https://raw.githubusercontent.com/T-Dynamos/termux-pro/main/motd > $PREFIX/etc/motd
 	chsh -s bash
 	echo -e "\e[1;31mUninstall Success , Now restart termux\e[0m"
 	exit 0
