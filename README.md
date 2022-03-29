@@ -13,6 +13,6 @@ After this run
 ```
 nvim
 ```
-And then press esc and then type `PlugInstall` then hit enter
+And then press esc and then type `:PlugInstall` then hit enter
 > this will install nvim plugins 
 ### Enjoy !
